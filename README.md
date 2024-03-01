@@ -1,1 +1,1 @@
-# Background-Generator
+Background Generator is designed to create backgrounds for various digital applications such as websites,presentations,games or artwork.They may utilize algorithms,templates to generate background efficiently and effectively.
